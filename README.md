@@ -142,7 +142,7 @@ Building a standardized Hybrid SDK delivery model that enables:
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,js,ts,nodejs,react,androidstudio,xcode,git,github" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,js,ts,nodejs,react,androidstudio,git,github,apple" />
 </p>
 
 ---
