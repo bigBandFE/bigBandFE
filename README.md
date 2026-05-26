@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # 👋 Hi, I'm bigBandFE
@@ -142,10 +141,8 @@ Building a standardized Hybrid SDK delivery model that enables:
 
 # 🛠 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=swift,kotlin,java,js,ts,nodejs,react,androidstudio,xcode,git,github" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,js,ts,nodejs,react,androidstudio,xcode,git,github" />
 </p>
 
 ---
@@ -159,14 +156,14 @@ iOS SDK Engineering   ███████████████████
 Android SDK Delivery  ████████████████
 AI Skill Workflow     ██████████████
 Developer Experience  █████████████████
-````
+```
 
 ---
 
 # 📫 Contact
 
-* 🏢 Company: DragonPass
-* 📧 Email: [frontenddev@dragonpass.com](mailto:frontenddev@dragonpass.com)
+- 🏢 Company: DragonPass
+- 📧 Email: frontenddev@dragonpass.com
 
 ---
 
@@ -175,4 +172,3 @@ Developer Experience  █████████████████
 ### ⚡ Building the next generation Hybrid SDK ecosystem.
 
 </div>
-```
