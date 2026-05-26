@@ -1,174 +1,98 @@
 <div align="center">
 
-# 👋 Hi, I'm bigBandFE
+# DPSDK Platform
 
-### Hybrid SDK Developer @ DragonPass
+### Enterprise Hybrid SDK Infrastructure
 
-Building a standardized Hybrid delivery platform for iOS / Android / Web.
+Build once. Deliver everywhere.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-Swift-orange?style=for-the-badge&logo=swift" />
-  <img src="https://img.shields.io/badge/Android-Kotlin-green?style=for-the-badge&logo=kotlin" />
-  <img src="https://img.shields.io/badge/Hybrid-SDK-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Skill-purple?style=for-the-badge" />
+  Enterprise Runtime · Cross-platform Delivery · AI-assisted Integration
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-Swift-orange?style=flat-square&logo=swift" />
+  <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?style=flat-square&logo=kotlin" />
+  <img src="https://img.shields.io/badge/Runtime-Hybrid-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Skill-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Distribution-SPM%20%7C%20JitPack-black?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# Overview
 
-I'm focused on building a modern Hybrid SDK ecosystem at DragonPass.
+DPSDK is a standardized Hybrid SDK platform designed for enterprise mobile applications.
 
-Current areas:
+The platform provides:
 
-- ⚡ Hybrid Runtime / Bridge / Router
-- 📱 iOS Swift Package Manager SDK distribution
-- 🤖 AI-powered SDK onboarding
-- 🌍 Cross-platform Hybrid architecture
-- 📦 Hot update delivery systems
-- 📚 Developer experience & documentation
-
----
-
-# 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 🤖 DPSDK AI Skill
-
-AI Skill for DragonPass DPSDK integration.
-
-Supports:
-
-- iOS SPM integration guidance
-- Android JitPack integration
-- AI-assisted onboarding
-- SDK troubleshooting
-
-🔗  
-<a href="https://github.com/bigBandFE/dpsdk-ai-skill">
-dpsdk-ai-skill
-</a>
-
-</td>
-
-<td width="50%">
-
-## 🍎 DPSDK iOS SPM
-
-DragonPass Hybrid SDK distributed via Swift Package Manager.
-
-Features:
-
-- Binary XCFramework
-- Hybrid Runtime
-- JSBridge
-- Router System
-
-🔗  
-<a href="https://github.com/bigBandFE/dpsdk-ios-spm">
-dpsdk-ios-spm
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🤖 DPSDK Android
-
-DragonPass Hybrid SDK for Android distributed through JitPack.
-
-Features:
-
-- Hybrid container
-- Runtime support
-- H5 integration
-- SDK bridge
-
-🔗  
-<a href="https://github.com/bigBandFE/dpsdk-android">
-dpsdk-android
-</a>
-
-</td>
-
-<td width="50%">
-
-## 📱 Demo Applications
-
-Official integration demos for iOS & Android.
-
-Includes:
-
-- SDK integration example
-- Runtime demos
-- Hybrid page rendering
-- Best practices
-
-🔗  
-<a href="https://github.com/bigBandFE/dpsdk-demo-ios">
-dpsdk-demo-ios
-</a>
-
-🔗  
-<a href="https://github.com/bigBandFE/dpsdk-demo-android">
-dpsdk-demo-android
-</a>
-
-</td>
-</tr>
-</table>
+- Enterprise Hybrid Runtime
+- Cross-platform SDK Distribution
+- AI-assisted Integration Workflow
+- Hot Update Capability
+- Native-like H5 Experience
+- Standardized Delivery System
 
 ---
 
-# 🧠 Vision
+# Platform Components
 
-Building a standardized Hybrid SDK delivery model that enables:
-
-- 🚀 No Host App release for new business pages
-- ⚡ Native-like page experience
-- 🔄 Hot update capability
-- 🌍 Cross-platform delivery
-- 🤖 AI-assisted integration workflows
+| Component | Description |
+|---|---|
+| Runtime | Enterprise Hybrid runtime |
+| Distribution | SPM / JitPack delivery |
+| AI Skill | AI-powered SDK onboarding |
+| Integration | Standardized integration workflow |
+| Delivery | Dynamic business deployment |
+| Experience | Native-like Hybrid rendering |
 
 ---
 
-# 🛠 Tech Stack
+# Repositories
+
+| Repository | Description |
+|---|---|
+| dpsdk-ai-skill | AI-powered SDK onboarding |
+| dpsdk-ios-spm | iOS Swift Package SDK |
+| dpsdk-android | Android Hybrid SDK |
+| dpsdk-demo-ios | iOS integration examples |
+| dpsdk-demo-android | Android integration examples |
+| dpsdk-contact | SDK onboarding & support |
+
+---
+
+# Vision
+
+Create a next-generation Hybrid delivery platform that enables:
+
+- Zero Host App release
+- Native-like interaction experience
+- Dynamic business deployment
+- AI-native integration workflow
+- Enterprise-level SDK standardization
+
+---
+
+# Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,js,ts,nodejs,react,androidstudio,git,github,apple" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,js,ts,nodejs,react,git,github,apple" />
 </p>
 
 ---
 
-# 📊 Focus Areas
+# Website
 
-```text
-Hybrid Runtime        ████████████████████
-JSBridge Architecture ██████████████████
-iOS SDK Engineering   ███████████████████
-Android SDK Delivery  ████████████████
-AI Skill Workflow     ██████████████
-Developer Experience  █████████████████
-```
-
----
-
-# 📫 Contact
-
-- 🏢 Company: DragonPass
-- 📧 Email: frontenddev@dragonpass.com
+https://dpsdk.dragonpass.com
 
 ---
 
 <div align="center">
 
-### ⚡ Building the next generation Hybrid SDK ecosystem.
+### Enterprise Hybrid Infrastructure Platform
 
 </div>
